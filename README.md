@@ -30,6 +30,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+---
+### Holopin badges
 
-
-<!-- <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> -->
+[![An image of @anupdsouza's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anupdsouza)](https://holopin.io/@anupdsouza)
