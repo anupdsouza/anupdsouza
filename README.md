@@ -1,8 +1,8 @@
 # 👨🏻‍💻 Anup D'Souza.
 **`Software Developer`**
-- 📜 Hi there! I'm a software developer working on mobile apps. I've worked on apps that belong to some of the topmost companies & brands in the world, that are being used by millions of users. Although I began developing apps over a decade ago for BlackBerry & Nokia devices, I've since transitioned to working on building apps solely for the iOS platform. I've also dabbled with Java & the Android platform in a limited personal capacity for some pet projects.
-- 🌱 I'm fascinated by technology and always interested in learning something new.
-- ☕️ In my free time I like gaming on the Xbox, watching movies and shows as well as reading. Also, I love coffee!
+- 👋🏻 Hi there! I’m a software developer with over a decade of experience in mobile app development. I’ve built apps for some of the world’s top brands, reaching millions of users globally. Though I started with BlackBerry and Nokia, my focus now is solely on iOS, with some experience in Android for personal projects.
+- 🌱 I'm fascinated by technology and always interested in learning something new. I post articles & videos related to development on my [Website](www.anupdsouza.com) & [YouTube channel](https://www.youtube.com/@swiftodyssey).
+- ☕️ Outside of coding, I enjoy gaming on Xbox, watching movies and shows, reading, and, of course, coffee!
 - 📧 Email is the best way to get in touch with me: anupdsouza@gmail.com
 
 ---
